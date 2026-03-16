@@ -1,4 +1,12 @@
-## Hi there 👋
+# Hi, I'm My Hoang 
+**PhD Candidate at WashU | Computational Biologist **
+---
+
+### About Me
+
+I study **cancer genetics** and optimize **personalized cancer vaccine** development in human, animal model and companion animal, using genomics and proteomics. 
+
+
 
 <!--
 **mhoang22/mhoang22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +22,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
