@@ -5,7 +5,7 @@
 
 ### About Me
 
-I study **cancer genetics** and optimize **personalized cancer vaccine** development in human, animal model and companion animal, using genomics and proteomics. 
+I study **cancer genetics** :dna: and optimize **personalized cancer vaccine** :syringe: development in human, animal model and companion animal, using genomics and proteomics. 
 
 
 
