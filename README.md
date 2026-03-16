@@ -1,6 +1,6 @@
 # Hi, I'm My Hoang 
 
-**PhD Candidate at WashU | Computational Biologist **
+**PhD Candidate at WashU | Computational Biologist**
 ---
 
 ### About Me
